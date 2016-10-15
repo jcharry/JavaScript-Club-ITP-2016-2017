@@ -13,21 +13,21 @@ Topics Covered:
 ##Setup##
 1. Ensure node is installed on your computer. Download it [here](https://nodejs.org/en/)
 2. clone this repository by running the following command in your terminal
-  ```bash
+  ```
   git clone https://github.com/jcharry/JavaScript-Club-ITP-2016-2017.git
   ```
   This will create a folder with the contents of this git repository
 3. In your terminal, navigate to the folder with:
-  ```bash
+  ```
   cd ~/path/to/Javascript-Club-ITP-2016-2017/part2-my-shitty-blog
   ```
 4. Once there, run the following command in your terminal
-  ```bash
+  ```
   npm install
   ```
   This will install all the dependencies we need to run our app
 5. Start the server by running:
-  ```bash
+  ```
   node server.js
   ```
 6. Navigate to localhost:3000 in your browser to see the app running
