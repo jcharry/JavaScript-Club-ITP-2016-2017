@@ -1,0 +1,21 @@
+/*
+ * style.css
+ * Copyright (C) 2016 jamiecharry
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+body {
+    background: white;
+    color: black;
+}
+
+.container {
+    margin: 20px;
+    background-color: green;
+}
+
+.container img {
+    width: 100%;
+}
+
