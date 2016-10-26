@@ -5,4 +5,5 @@ npm-debug.log*
 .img-carousel
 .my-shitty-blog
 .part2-my-shitty-blog
+.part3-objects-and-functions
 *.txt
