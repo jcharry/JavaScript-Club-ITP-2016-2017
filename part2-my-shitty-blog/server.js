@@ -3,6 +3,8 @@
 var express = require('express');
 var app = express();
 
+test.log('hi');
+
 // These are extra libraries that are needed to handle POST data from
 // a browser, as well as cookie data (which we didn't quite get to talk about)
 var bodyParser = require('body-parser');
